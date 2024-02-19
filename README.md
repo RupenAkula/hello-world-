@@ -1,2 +1,2 @@
 # hello-world-
-this repository is for practicing GitHub flow 
+I am Rupen Akula. i study at mahindra university 
